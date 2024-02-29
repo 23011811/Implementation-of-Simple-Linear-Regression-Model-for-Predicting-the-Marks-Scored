@@ -100,7 +100,10 @@ Training Set
 Testing Set
 
 
-![Uploading image.png…]()
+![image](https://github.com/23011811/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/160568623/3a27ac4c-87a6-4a03-a459-2665dd21d167)
+
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
